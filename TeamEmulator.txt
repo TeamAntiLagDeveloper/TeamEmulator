@@ -1,0 +1,5 @@
+Este mod foi desenvolvido com base no emulador smartgaga e tem como objetivo resolver problemas e erros comuns 
+encontrados no android 
+
+- Agradecemos a todos os usuários e desenvolvedores da comunidade que contribuíram com feedback e sugestões 
+para aprimorar este mod.
